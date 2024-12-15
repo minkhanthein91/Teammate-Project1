@@ -1,0 +1,23 @@
+
+
+.logo-grid .project1{
+    border:0.1px solid rgba(0, 0, 0, 0.274);
+}
+.logo-grid .bar1{
+    margin-left: 200px;
+    margin-top: 50px;
+    border:0.1px solid rgba(0, 0, 0, 0.274);
+
+}
+.logo-grid .bar1  img{
+width: 100%;
+height: 50px;
+object-fit: contain;
+/* border:0.1px solid rgba(0, 0, 0, 0.274); */
+/* padding: 50px 75px; */
+
+
+
+display: flex;
+align-items: center;
+justify-content: center; }
